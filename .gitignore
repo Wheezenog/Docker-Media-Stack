@@ -1,0 +1,4 @@
+.env
+*.save
+/config
+.DS_Store

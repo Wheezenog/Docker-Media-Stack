@@ -1,0 +1,5 @@
+[[roles]]
+name = "t-anc/GSP-Qbittorent-Gluetun-sync-port-mod"
+routes = ["GET /v1/portforward"]
+auth = "apikey"
+apikey = "Some Long Complex String"
